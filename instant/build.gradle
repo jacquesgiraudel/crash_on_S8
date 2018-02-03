@@ -1,0 +1,10 @@
+apply plugin: 'com.android.instantapp'
+android {
+    defaultConfig {
+        applicationId "fr.jgl.firebaseinstant"
+    }
+}
+
+dependencies {
+    implementation project(':base')
+}

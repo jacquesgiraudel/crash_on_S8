@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "152737217448",
+    "firebase_url": "https://fir-instant-3387f.firebaseio.com",
+    "project_id": "fir-instant-3387f",
+    "storage_bucket": "fir-instant-3387f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152737217448:android:a529bb0033af27c9",
+        "android_client_info": {
+          "package_name": "fr.jgl.firebaseinstant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152737217448-d51aebi32ldjun6o4cfh9hrtigvth7ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfMq4ZgQ3MHYZdzE57Fzj8pR7eTFgs3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
